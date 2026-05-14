@@ -1,5 +1,3 @@
-above.
-What to put on GitHub README
 # 🍽️ Food Orders SQL Analysis
 **Tech:** SQL Server  |  Star Schema  |  Data Cleaning  |  Business Analytics
 
