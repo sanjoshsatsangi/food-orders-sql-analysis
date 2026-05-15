@@ -19,6 +19,10 @@ food-orders-sql-analysis/
 ├── food_data.csv         ← Raw dataset
 └── README.md
 ```
+## Schema
+<img width="182" height="150" alt="svgviewer-output" src="https://github.com/user-attachments/assets/5ace4092-34ff-4437-b724-a6e60c4613d3" />
+
+
 
 ---
 
