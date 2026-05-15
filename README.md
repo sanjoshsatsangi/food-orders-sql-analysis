@@ -20,7 +20,7 @@ food-orders-sql-analysis/
 └── README.md
 ```
 ## Schema
-<img width="182" height="150" alt="svgviewer-output" src="https://github.com/user-attachments/assets/5ace4092-34ff-4437-b724-a6e60c4613d3" />
+<img width="3000" height="1500" alt="svgviewer-output" src="https://github.com/user-attachments/assets/5ace4092-34ff-4437-b724-a6e60c4613d3" />
 
 
 
