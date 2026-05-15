@@ -86,19 +86,7 @@ A proper dimensional model was built from the raw flat CSV:
 
 ---
 
-## Connecting to Power BI / Tableau
 
-**Power BI:**
-1. Home → Get Data → SQL Server → import all 6 tables
-2. Verify 5 relationships in Model view (Many-to-One, Single cross-filter)
-3. Build visuals: monthly trend (line), top cities (bar), category split (pie), KPI cards
-
-**Tableau:**
-1. Connect → Microsoft SQL Server → drag `fact_food_orders` to canvas
-2. Drag each dimension table → use Relationships (not Joins) on FK fields
-3. Build the same 4 chart types
-
----
 
 ## Skills Demonstrated
 
